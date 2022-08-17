@@ -1,10 +1,10 @@
 ## Oi!
 
-Eu sou Matheus Torquete
+Eu sou Matheus Torquete, tenho 23 anos.
 
 Apaixonado por Tecnologia, Procuro aprender e desenvolver
 
-Formado em Tecnologia da Informçaõ
+Formado em Tecnologia da Informação
 
 Formando em Sistemas de Informação 6º Semestre
 
