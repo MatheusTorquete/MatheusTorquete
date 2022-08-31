@@ -4,9 +4,9 @@
 
 ## Apaixonado por Tecnologia, estou sempre procurando aprender e desenvolver.
 
-Formado em Tecnologia da Informação
+## Formado em Tecnologia da Informação
 
-Formando em Sistemas de Informação 6º Semestre
+## Formando em Sistemas de Informação 6º Semestre
 
 
 
