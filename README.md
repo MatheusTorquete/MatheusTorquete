@@ -2,9 +2,9 @@
 
 # Eu sou Matheus Torquete, tenho 23 anos.
 
-## Apaixonado por Tecnologia, estou sempre procurando aprender e desenvolver
+## Apaixonado por Tecnologia, estou sempre procurando aprender e resolver problemas.
 
-## Foco em Tecnologias Back-End Python & PHP.
+## 
 
 ## Formado em Tecnologia da Informação
 
