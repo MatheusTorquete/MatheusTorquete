@@ -4,7 +4,7 @@
 
 ## Atualmente sou estagiário no Itaú.
 
-## Estou realizando um curso com foco em HTML/CSS & Javascript.
+## Estou realizando um curso com foco em HTML/CSS & Javascript, ao final tem um projeto integrador que está em andamento.
 ## Também estou estudando Python voltado para Back-end.
 
 ## Formando em Sistemas de Informação 7º Semestre
