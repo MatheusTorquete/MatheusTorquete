@@ -2,11 +2,10 @@
 
 # Eu sou Matheus Torquete, tenho 24 anos.
 
-## Apaixonado por Tecnologia, estou sempre procurando aprender e resolver problemas.
+## Atualmente sou estagiário no Itaú.
 
-## 
-
-## Formado em Tecnologia da Informação
+## Estou realizando um curso com foco em HTML/CSS & Javascript.
+## Também estou estudando Python voltado para Back-end.
 
 ## Formando em Sistemas de Informação 7º Semestre
 
