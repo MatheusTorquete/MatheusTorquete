@@ -2,7 +2,7 @@
 
 # Eu sou Matheus Torquete, tenho 24 anos.
 
-## Atualmente sou estagiário no Itaú.
+## Atualmente sou estagiário no Banco Itaú
 
 ## Estou realizando um curso com foco em HTML/CSS & Javascript, ao final tem um projeto integrador que está em andamento.
 ## Também estou estudando Python voltado para Back-end.
