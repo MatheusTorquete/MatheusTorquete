@@ -4,7 +4,7 @@
 
 ## Atualmente sou estagiário no Banco Itaú
 
-## Estou realizando um curso com foco em HTML/CSS & Javascript, ao final tem um projeto integrador que está em andamento.
+## Estou realizando um curso com foco em HTML/CSS & Javascript e Banco de Dados ao final tem um projeto integrador que está em andamento.
 
 ## Formando em Sistemas de Informação 8º Semestre
 
