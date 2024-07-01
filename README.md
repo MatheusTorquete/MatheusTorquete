@@ -2,9 +2,11 @@
 
 # Eu sou Matheus Torquete, tenho 25 anos.
 
-## Atualmente sou Analisa Jr
+## Atualmente sou Analista de Dados
 
-## Formado em Sistemas de Informação 8º Semestre
+## SKILLS - Excel, SQL, Power BI, Looker Studio e Python.
+
+## Formado em Sistemas de Informação
 
 
 
